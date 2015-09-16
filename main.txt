@@ -2,6 +2,7 @@
 
 int main()
 {
-	filter( string, p -> i=10 );
+	setInterface();
+	filter();
 	return 0;
 }
