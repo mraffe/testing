@@ -1,0 +1,7 @@
+// Testing Git
+
+int main()
+{
+	filter( string, p -> i=10 );
+	return 0;
+}
