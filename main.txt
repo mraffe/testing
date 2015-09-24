@@ -3,6 +3,6 @@
 int main()
 {
 	setInterface();
-	filter();
+	fasdasdilter();
 	return 0;
 }
